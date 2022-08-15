@@ -57,7 +57,7 @@ for (item=0; item <= pizzas.length - 1 ; item++ ){
     for (item2 = 0; item2 <= pizzas[item].ingredientes.length - 1; item2++){
         console.log (pizzas[item].ingredientes[item2])
     }
-    console.log ('███████████████████████████████████████████████████████████████████████████████████')
+    console.log ('█████████████████████████████████████████████████████████████')
 }
 console.log ("para hacer su pedido llame al 0800 123456")
 
