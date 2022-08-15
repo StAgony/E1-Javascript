@@ -38,6 +38,9 @@ const pizzas = [Muzzarela,Fugazeta,Especial,Cochina,Vegana,Cuatroquesos]
 
 
 console.log ('Pizzas disponibles esta noche!: ')
+
+console.log ('█████████████████████████████████████████████████████████████')
+
 for (item=0; item <= pizzas.length - 1 ; item++ ){
    
     console.log ('La ' + pizzas[item].nombre)
@@ -59,6 +62,7 @@ for (item=0; item <= pizzas.length - 1 ; item++ ){
     }
     console.log ('█████████████████████████████████████████████████████████████')
 }
+
 console.log ("para hacer su pedido llame al 0800 123456")
 
 
